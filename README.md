@@ -9,7 +9,7 @@ threshold, it waters the plant. Model does this check every 10 seconds.
     <li> Soil moisture sensor </li>
     <li> 5V relay module </li>
     <li> 5V Water Pump </li>
-    <li> Water tube <li>
+    <li> Water tube </li>
     <li> Jumper wires </li>
-    <li> Battery <li>
+    <li> Battery </li>
 </ul>

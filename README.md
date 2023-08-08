@@ -17,3 +17,7 @@ threshold, it waters the plant. Model does this check every 10 seconds.
 <h3> Circuit Diagram </h3>
 
 ![Alt text](image.png)
+
+<h3> Model in action </h3>
+
+<video src="automatic%20irrigation.mp4" controls title="Title"></video>

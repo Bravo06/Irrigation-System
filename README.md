@@ -1,7 +1,9 @@
 <h1> Automatic Irrigation System </h1>
 
 An automated model that measures soil moisture levels via a soil moisture sensor and if the value obtained is below a certain
-threshold, it waters the plant. Model does this check every 10 seconds.
+threshold, it waters the plant. Model does this check every 10 seconds. 
+
+Watch the model in action in the "automatic irrigation.mp4" file.
 
 <h3> Components Used </h3>
 <ul>
@@ -17,7 +19,3 @@ threshold, it waters the plant. Model does this check every 10 seconds.
 <h3> Circuit Diagram </h3>
 
 ![Alt text](image.png)
-
-<h3> Model in action </h3>
-
-<video src="automatic%20irrigation.mp4" controls title="Title"></video>

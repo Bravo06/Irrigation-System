@@ -13,3 +13,6 @@ threshold, it waters the plant. Model does this check every 10 seconds.
     <li> Jumper wires </li>
     <li> Battery </li>
 </ul>
+
+<h3> Circuit Diagram </h3>
+![Alt text](image.png)
